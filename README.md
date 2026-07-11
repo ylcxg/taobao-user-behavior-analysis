@@ -25,17 +25,20 @@
 - 统计被浏览次数最多的Top 10商品
 - 使用柱状图进行可视化展示
 - **发现**：商品ID 3027414 是浏览量最高的商品
+  ![Top10热门商品]<img width="1486" height="887" alt="top10_items" src="https://github.com/user-attachments/assets/72565a04-ec24-4c83-8559-3cb0e76fc7ca" />
 
 ### 3. 用户转化漏斗分析
+
 - 对比浏览量和购买量的巨大差距
 - 计算浏览→购买的整体转化率
 - **发现**：10万条数据中，浏览行为占95%以上，购买转化率仅为2.2%
+![用户转化漏斗]<img width="1069" height="792" alt="funnel" src="https://github.com/user-attachments/assets/0b9c1165-a52a-432f-b94c-2cc41031cf14" />
 
 ## 技术栈
 - **编程语言**：Python 3.x
 - **数据处理**：Pandas
 - **数据可视化**：Matplotlib
-- **开发工具**：VS Code、Jupyter Notebook
+- **开发工具**：VS Code
 
 ## 项目文件说明
 | 文件名 | 说明 |
@@ -62,5 +65,5 @@ pip install pandas matplotlib
 - 引入RFM模型进行用户分层分析
 - 分析不同时间段（工作日/周末）的用户行为差异
 - 尝试使用机器学习模型预测用户购买意向
-[Top10热门商品]<img width="1069" height="792" alt="funnel" src="https://github.com/user-attachments/assets/c7d0b526-8a59-40a8-ac9a-60b8aea3790a" />
-[用户转化漏斗]<img width="1486" height="887" alt="top10_items" src="https://github.com/user-attachments/assets/d1384ed2-78f7-403e-a8e9-defc66eab422" />
+  
+
