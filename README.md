@@ -62,6 +62,5 @@ pip install pandas matplotlib
 - 引入RFM模型进行用户分层分析
 - 分析不同时间段（工作日/周末）的用户行为差异
 - 尝试使用机器学习模型预测用户购买意向
-![Top10热门商品](images/top10_items.png)
-
-![用户转化漏斗](images/funnel.png)
+![Top10热门商品]<img width="1069" height="792" alt="funnel" src="https://github.com/user-attachments/assets/c7d0b526-8a59-40a8-ac9a-60b8aea3790a" />
+![用户转化漏斗]<img width="1486" height="887" alt="top10_items" src="https://github.com/user-attachments/assets/d1384ed2-78f7-403e-a8e9-defc66eab422" />
