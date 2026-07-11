@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 # 淘宝用户行为分析项目
 
 ## 项目简介
