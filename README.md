@@ -46,8 +46,10 @@
 | small_sample.csv | 抽样后的数据集（10万条）|
 
 ## 如何运行
-1. 确保已安装 Python 3.x 及以下库：
+1. 确保已安装 Python 3.x，然后：
+```bash
 pip install pandas matplotlib
+```
 2. 下载 `small_sample.csv` 到本地
 3. 运行对应的 `.py` 文件即可
 
@@ -60,5 +62,6 @@ pip install pandas matplotlib
 - 引入RFM模型进行用户分层分析
 - 分析不同时间段（工作日/周末）的用户行为差异
 - 尝试使用机器学习模型预测用户购买意向
-- <img width="1200" height="950" alt="微信图片_20260711150411_145_1" src="https://github.com/user-attachments/assets/3aa3a714-7878-4b0f-a6db-265ef20eee84" />
-<img width="1472" height="900" alt="9d6c78e91997f5a1aab8c93df303cf75" src="https://github.com/user-attachments/assets/9ff9d818-1d6c-484a-8bc0-d71713876135" />
+![Top10热门商品](images/top10_items.png)
+
+![用户转化漏斗](images/funnel.png)
