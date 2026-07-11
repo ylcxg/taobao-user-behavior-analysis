@@ -6,7 +6,7 @@ plt.rcParams["font.sans-serif"] = ["SimHei"]
 plt.rcParams["axes.unicode_minus"] = False
 
 # 2. 读取数据
-df = pd.read_csv('small_sample.csv')
+df = pd.read_csv(r'C:\Users\肖威\Desktop\small_sample.csv')
 
 # 3. 重命名列，方便后续操作（根据你实际的列名调整）
 df.columns = ['user_id', 'item_id', 'category_id', 'behavior_type', 'timestamp']
