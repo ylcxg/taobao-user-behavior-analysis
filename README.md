@@ -49,8 +49,6 @@
 
 ## 如何运行
 1. 确保已安装 Python 3.x 及以下库：
-bash
-
 pip install pandas matplotlib
 2. 下载 `small_sample.csv` 到本地
 3. 运行对应的 `.py` 文件即可
