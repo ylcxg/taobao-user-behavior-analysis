@@ -1,4 +1,3 @@
-![Python](https://img.shields.io/badge/Python-3.x-blue)
 # 淘宝用户行为分析项目
 
 ## 项目简介
@@ -61,3 +60,4 @@ pip install pandas matplotlib
 - 分析不同时间段（工作日/周末）的用户行为差异
 - 尝试使用机器学习模型预测用户购买意向
 - <img width="1200" height="950" alt="微信图片_20260711150411_145_1" src="https://github.com/user-attachments/assets/3aa3a714-7878-4b0f-a6db-265ef20eee84" />
+<img width="1472" height="900" alt="9d6c78e91997f5a1aab8c93df303cf75" src="https://github.com/user-attachments/assets/9ff9d818-1d6c-484a-8bc0-d71713876135" />
