@@ -25,14 +25,15 @@
 - 统计被浏览次数最多的Top 10商品
 - 使用柱状图进行可视化展示
 - **发现**：商品ID 3027414 是浏览量最高的商品
-  ![Top10热门商品]<img width="1486" height="887" alt="top10_items" src="https://github.com/user-attachments/assets/72565a04-ec24-4c83-8559-3cb0e76fc7ca" />
+![Top10热门商品](images/top10_items.png)
 
 ### 3. 用户转化漏斗分析
 
 - 对比浏览量和购买量的巨大差距
 - 计算浏览→购买的整体转化率
 - **发现**：10万条数据中，浏览行为占95%以上，购买转化率仅为2.2%
-![用户转化漏斗]<img width="1069" height="792" alt="funnel" src="https://github.com/user-attachments/assets/0b9c1165-a52a-432f-b94c-2cc41031cf14" />
+![用户转化漏斗](images/funnel.png)
+
 
 ## 技术栈
 - **编程语言**：Python 3.x
