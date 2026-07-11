@@ -9,13 +9,11 @@
 - **数据规模**：10万条抽样数据（原始数据约1亿条）
 - **时间范围**：2017年9月11日 - 2017年12月3日
 - **数据字段**：
-  | 字段名 | 含义 |
-  |---|---|
-  | user_id | 用户ID |
-  | item_id | 商品ID |
-  | category_id | 商品类别ID |
-  | behavior_type | 用户行为类型（pv浏览/cart加购/fav收藏/buy购买）|
-  | timestamp | 行为发生时间（Unix时间戳）|
+  - user_id：用户ID
+- item_id：商品ID  
+- category_id：商品类别ID
+- behavior_type：用户行为类型（pv/cart/fav/buy）
+- timestamp：Unix 时间戳
 
 ## 分析内容
 ### 1. 数据清洗与探索
