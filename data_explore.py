@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 1. 读取小文件
-df = pd.read_csv('small_sample.csv')
+df = pd.read_csv(r'C:\Users\肖威\Desktop\small_sample.csv')
 
 # 2. 打印所有列名，确认真实名称
 print("=== 数据表的真实列名如下 ===")
