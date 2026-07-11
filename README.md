@@ -9,7 +9,7 @@
 - **数据规模**：10万条抽样数据（原始数据约1亿条）
 - **时间范围**：2017年9月11日 - 2017年12月3日
 - **数据字段**：
-  - user_id：用户ID
+- user_id：用户ID
 - item_id：商品ID  
 - category_id：商品类别ID
 - behavior_type：用户行为类型（pv/cart/fav/buy）
