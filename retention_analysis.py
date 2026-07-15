@@ -83,7 +83,7 @@ colors = ['#32CD32', '#FF6347'] # 绿/红
 
 bars = plt.bar(categories, values, color=colors, width=0.6)
 
-plt.title('淘宝用户真正次日留存率', fontsize=14)
+plt.title('淘宝活跃用户次日回访率', fontsize=14)
 plt.ylabel('占比(%)', fontsize=12)
 plt.ylim(0, 100)
 
