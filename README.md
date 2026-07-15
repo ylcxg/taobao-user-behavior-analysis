@@ -57,6 +57,8 @@
 | data_explore.py | 数据探索与清洗代码 |
 | top_items.py | 热门商品Top 10分析代码 |
 | funnel_analysis.py | 用户转化漏斗分析代码 |
+| retention_analysis.py | 用户次日留存分析代码 |
+| user_behavior_path.py | 用户行为路径分析代码 |
 | small_sample.csv | 抽样后的数据集（10万条）|
 
 ## 如何运行
